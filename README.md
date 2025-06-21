@@ -1,6 +1,7 @@
 # Lenguaje Imperativo Simple en Haskell
 
 Este proyecto es una implementación minimalista de un lenguaje imperativo, basada en el libro _Theories of Programming Languages_ de John C. Reynolds. Toda la semántica está dirigida por la sintaxis, usando Haskell y su estilo funcional puro.
+Una descripcion mucho mas grande del proyecto esta realizada paso a paso en la bitacora
 
 ---
 
